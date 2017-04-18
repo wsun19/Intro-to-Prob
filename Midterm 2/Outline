@@ -42,7 +42,7 @@ Beta(a, b) distribution
 Computing mean, variance of named distributions
 CDF method. Univariate transformations
     Special case of 1-1 (monotone) maps -> baby (?) transformation theorem
-Weobull, Log normal distributions as functions of other named distributions
+Weibull, Log normal distributions as functions of other named distributions
 
 Joint distributions (Compute prob / continuous prob / marginal prob)
     Joint-discrete pmf, pdf
